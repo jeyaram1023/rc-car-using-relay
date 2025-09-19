@@ -33,7 +33,7 @@ The car is powered by 18650 lithium batteries for the motors and a separate LiPo
 
 ## Circuit Diagram and Connections
 
-![Circuit Diagram](./Picsart_25-09-19_12-59-56-734.jpeg)
+![Circuit Diagram](./rc-car-without-motor-driver.jpeg)
 
 - Connect 18650 batteries positive to relay COM terminals.
 - Connect motors to NO terminals of relays.
