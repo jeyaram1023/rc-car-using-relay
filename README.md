@@ -51,7 +51,7 @@ The ESP8266 controls relay modules via GPIO pins. Activating a relay connects po
 
 ## Installation & Usage
 
-1. Clone this repo:
+1. Clone this repo:https://github.com/jeyaram1023/rc-car-using-relay
 2. Open and upload the code to your ESP8266 using Arduino IDE.
 3. Wire the hardware as described.
 4. Power the batteries and use the web interface or app to control the car.
