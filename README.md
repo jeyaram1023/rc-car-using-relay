@@ -78,6 +78,19 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file.
 
 ---
 
+## 👨‍💻 About the Developer
+
+**Name:** Jeyaram Reddy  
+**Email:** jeyaram.reddy.ece@gmail.com  
+**GitHub:** [jeyaram1023](https://github.com/jeyaram1023)  
+**LinkedIn:** [Jeyaram B](https://www.linkedin.com/in/jeyaram-ece-reddy)  
+**Portfolio**[Click here](https://jeyaram1023.github.io/My-portfolio/).
+
+**Location:** India  
+**Status:** Open to collaboration & freelance automation gigs!
+
+---
+---
 ## Acknowledgments
 
 Thanks to the maker community and open source projects for inspiration.
